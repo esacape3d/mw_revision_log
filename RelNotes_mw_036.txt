@@ -1,0 +1,12 @@
+<h3><span style="color: #ff0000;">Bugfix</span></h3>
+<ul>
+<li>Fixed a wrong font size for exposure calibration tool and text mesh</li>
+<li>Fixed misplacement of a hollow mesh after importing another model</li>
+</ul>
+<h3><span style="color: #0000ff;">Feature</span></h3>
+<ul>
+</ul>
+<h3>Changes</h3>
+<ul>
+<li>Minor changes </li>
+</ul>
